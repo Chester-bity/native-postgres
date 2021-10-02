@@ -1,0 +1,15 @@
+services:
+    postgres:
+        container_name: postgres_test
+        image: postgres:latest
+        environment:
+            POSTGRES_DB: "testdb"
+            POSTGRES_PASSWORD: "testdb"
+        volumes:
+            - "./postgres:/DB"
+        ports:
+            - "4000:5432"
+            
+            
+            
+            
