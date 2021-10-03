@@ -6,13 +6,13 @@ This application is to save phone number and email address. The data is store in
 
 The user nickname is shown as in figure below with user information kept. You can set the row number that you wanted to show on the list. The list can search 3, 5 and 10 rows per page. If the user is more than the specified list number, you can go to next page to inspect the other nicknames. The list is sort by the alphabet of the nickname.
 
-![image-20211003101044959](C:\Users\ADFT010-RD\AppData\Roaming\Typora\typora-user-images\image-20211003101044959.png)
+![image-20211003101044959](https://user-images.githubusercontent.com/91355474/135737308-b16b5c58-ad2e-4ada-ad0d-1ea740d3d5d2.png)
 
 
 
 You able to search nickname using the search bar above.
 
-![image-20211003101105811](C:\Users\ADFT010-RD\AppData\Roaming\Typora\typora-user-images\image-20211003101105811.png)
+![image-20211003101105811](https://user-images.githubusercontent.com/91355474/135737314-3fc84813-9b8e-45be-87c7-d7a9ed50e8a4.png)
 
 
 
